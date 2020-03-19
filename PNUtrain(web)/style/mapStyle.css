@@ -1,0 +1,386 @@
+#map {
+  width: 530px;
+  height: 570px;
+  position:relative;
+  background-image: url(tMap2.png);
+  background-size:  520px 620px;
+  background-color:white;
+   background-repeat: no-repeat;
+   background-position: center;
+    border: 2px solid #afafaf;
+	margin: 0 auto;
+	margin-top:4%;
+
+}
+#A1-1 {
+ width: 19px;
+  height:19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:518px 0px 0px 258px;
+  background-color: #e4e5de;
+}
+
+#A1-2 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:495px 0px 0px 258px;
+  background-color: #e4e5de;
+}
+
+#A2-1 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:442px 220px 0px 197px;
+  background-color: #e3e3e3;
+}
+#A2-2 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:442px 0px 0px 221px;
+  background-color: #e3e3e3;
+}
+#A3-1 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:275px 0px 0px 197px;
+  background-color: #e3e3e3;
+}
+#A3-2 {
+   width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:275px 220px 0px 221px;
+  background-color: #e3e3e3;
+ 
+}
+#A4-1 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:193px 0px 0px 197px;
+  background-color: #e3e3e3;
+}
+#A4-2 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:193px 0px 0px 221px;
+  background-color: #e3e3e3;
+}
+
+#A5-1 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:108px 200px 0px 197px;
+  background-color: #e3e3e3;
+}
+#A5-2 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:108px 0px 0px 221px;
+  background-color: #e3e3e3;
+}
+
+
+
+#A6-1 {
+ width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:108px 0px 0px 292px;
+  background-color: #e3e3e3;
+}
+#A6-2 {
+   width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:108px 0px 0px 315px;
+  background-color: #e3e3e3;
+}
+#A7-1 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:193px 0px 0px 292px;
+  background-color: #e3e3e3;
+}
+#A7-2 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:193px 0px 0px 315px;
+  background-color: #e3e3e3;
+}
+
+#A8-1 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:275px 0px 0px 292px;
+  background-color: #e3e3e3;
+}
+#A8-2 {
+ width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:275px 0px 0px 315px;
+  background-color: #e3e3e3;
+}
+#A9-1 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:358px 0px 0px 292px;
+  background-color: #e3e3e3;
+}
+#A9-2 {
+ width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:358px 0px 0px 315px;
+  background-color: #e3e3e3;
+}
+#A10-1 {
+ width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:442px 0px 0px 292px;
+  background-color: #e3e3e3;
+}
+#A10-2 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:442px 0px 0px 315px;
+  background-color: #e3e3e3;
+}
+#S1 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:275px 0px 0px 65px;
+  background-color: #e3e3e3;
+}
+#S2 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:193px 0px 0px 65px;
+  background-color: #e3e3e3;
+}
+
+
+#F1 {
+ width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:315px 0px 0px 412px;
+  background-color: #e3e3e3;
+}
+
+#F2 {
+  width: 19px;
+  height: 19px;
+  border-radius: 25px;
+  border: 2px solid black;
+  position: absolute;
+  margin:53px 0px 0px 412px;
+  background-color: #e3e3e3;
+}
+
+@media only screen and ( min-width:160px ) and ( max-width:600px ){
+  #map{
+  width:100%;
+  height: 600px;
+  position: relative;
+  background-image: url(tMap2.png);
+  background-size:  90% 100%;
+
+
+	
+}
+#A1-1 {
+  width: 14px;
+  height: 14px;
+  margin:525px 0% 0% 49%;
+
+}
+
+#A1-2 {
+ width: 14px;
+  height: 14px;
+  margin:505px 0% 0% 49%;
+}
+
+#A2-1 {
+  width: 14px;
+  height: 14px;
+  margin:450px 22% 0% 37.5%;
+}
+#A2-2 {
+  width: 14px;
+  height: 14px;
+  margin:450px 20% 0% 42.2%;
+}
+#A3-1 {
+   width: 14px;
+  height: 14px;
+  margin:293px 22% 0% 37.5%;
+}
+#A3-2 {
+  width: 14px;
+  height: 14px;
+  margin:293px 20% 0% 42.2%;
+ 
+}
+#A4-1 {
+  width: 14px;
+  height: 14px;
+  margin:213px 22% 0% 37.5%;
+}
+#A4-2 {
+  width: 14px;
+  height: 14px;
+  margin:213px 20% 0% 42.2%;
+}
+
+#A5-1 {
+  width: 14px;
+  height: 14px;
+  margin:130px 22% 0% 37.5%;
+}
+#A5-2 {
+  width: 14px;
+  height: 14px;
+  margin:130px 20% 0% 42.2%;
+}
+
+
+
+#A6-1 {
+  width: 14px;
+  height: 14px;
+  margin:130px 0% 0% 59%;
+}
+#A6-2 {
+ width: 14px;
+  height: 14px;
+  margin:130px 0% 0% 54.5%;
+}
+#A7-1 {
+  width: 14px;
+  height: 14px;
+  margin:213px 0% 0% 59%;
+}
+#A7-2 {
+  width: 14px;
+  height: 14px;
+  margin:213px 0% 0% 54.5%;
+}
+
+#A8-1 {
+ width: 14px;
+  height: 14px;
+  margin:293px 0% 0% 59%;
+}
+#A8-2 {
+  width: 14px;
+  height: 14px;
+  margin:293px 0% 0% 54.5%;
+}
+#A9-1 {
+ width: 14px;
+  height: 14px;
+  margin:373px 0% 0% 59%;
+}
+#A9-2 {
+  width: 14px;
+  height: 14px;
+  margin:373px 0% 0% 54.5%;
+}
+#A10-1 {
+  width: 14px;
+  height: 14px;
+  margin:450px 0% 0% 54.5%;
+}
+#A10-2 {
+ width: 14px;
+  height: 14px;
+  margin: 450px 0% 0% 59%;
+}
+#S1 {
+  width: 14px;
+  height: 14px;
+  margin: 210px 0% 0% 15.5%;
+}
+#S2 {
+  width: 14px;
+  height: 14px;
+  margin:293px 0% 0% 15.5%;
+}
+
+
+#F1 {
+ width: 14px;
+  height: 14px;
+  margin:331px 0% 0% 76.5%;
+}
+
+#F2 {
+  width: 14px;
+  height: 14px;
+  margin:78px 0% 0% 76.5%;
+}
+}

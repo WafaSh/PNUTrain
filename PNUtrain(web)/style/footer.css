@@ -1,0 +1,35 @@
+
+
+
+#footer {
+
+	padding-top:6px;
+	padding-bottom:8px;
+	margin-left:20px;
+	margin-right:20px;
+	width:4%;
+    display:inline-black;
+   	width:100%
+    left:0;
+	
+	
+}
+#bottom {
+	height:200px;
+	width:100%;
+	
+}
+footer {
+	margin-top:4%;
+	padding-top:15px;
+	background-color:#4F3A4B;
+	position:absolute;}
+
+@media only screen and ( min-width:160px ) and ( max-width:600px ){
+	
+#footer {
+width: 9%;
+margin-left:10px;
+margin-right:10px;
+}
+}
